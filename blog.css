@@ -59,6 +59,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 0 3px 3px 0;
 }
 
+mark {
+  background-color: yellow;
+}
+
 .flex-auto {
   -ms-flex: 0 0 auto;
   -webkit-box-flex: 0;

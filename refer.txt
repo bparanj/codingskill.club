@@ -1,0 +1,40 @@
+<ul>
+
+	<li> Are you looking for a methodology for effectively solving coding problems? </li>
+	<li> Do you get frustrated easily when you don't get easy to medium problems right away? </li>
+	<li> Are you taking more than 30 minutes to solve a coding interview problem? </li>
+	
+	<li> Do you have difficulty remembering something that you learned a couple of weeks back? </li>
+	<li> Do you forget how to solve a given problem after a couple of weeks? </li>
+	<li> Do you struggle to remember the various concepts and techniques to solve coding challenges in technical interviews? </li>
+	<li> Do you forget during the interview? </li>
+	
+	<li> Do you have trouble with implementing and understanding recursive solutions on data structures like Trees? </li>
+	<li> Do you have trouble coming up with dynamic programming solutions? </li>
+	
+	<li> Do you feel like you don't have enough time to practice thousands of coding problems? </li>
+	<li> Do you find the theory used to write down the algorithms difficult to translate into code? </li>
+	<li> Are you worried about the amount of focus time you have? </li>
+	<li> Do you feel anxious about: What if they ask something else? </li>
+
+	<li> How do you approach new problems? </li>
+	<li> How are you going to solve new problems and get through the coding interview? </li>
+
+	<li> Not sure how to divide your time for practice and study? </li>
+	<li> Do you feel intimidated by tech interviews? </li>
+	
+	<li> Are you not good at solving a problem on the spot? </li>
+	
+	<li> Do you have problems finding the right approach to tackle a coding problem? </li> 		
+	<li> Are you looking for techniques to break down coding problems? </li>
+	<li> Do you feel overwhelmed by the amount of material you need to master? </li>
+	<li> Do you feel anxious and under prepared for the interview? </li>		
+
+	<li> 
+		Do you feel too conscious that someone is watching you code during the interview that prevents you from performing well?
+	 </li>
+	
+</ul>
+
+
+

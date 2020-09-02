@@ -38,3 +38,61 @@
 
 
 
+	<p class="lead">
+
+	</p>
+
+
+	<h3>Asking Questions</h3>
+
+	<p>
+		The ability to ask questions is a skill and it is a prerequisite to solve problems. Ask:
+	
+		<ul>
+			<li>What</li>
+			<li>How</li>
+			<li>Why</li>
+		</ul>
+	
+		These questions will make you reason about the code and gain deeper understanding. Here is some questions to ask:
+		
+		<ul>
+			<li>Wait a minute... How do you know that?</li>
+			<li>How do you know that is the right X? Are you sure it is right?</li>
+			<li>How do you recognize the type of problem?</li>
+			<li>How do you get that?</li>
+			<li>Why do you do that?</li>
+			<li>So, what does that mean?</li>
+			<li>That sounds pretty vague to me.</li>
+			<li>Are you sure?</li>
+		</ul>		
+	</p>
+
+
+	<h4>Reflection</h4>
+
+	<ul>
+		<li>
+			What are the key ideas? 		
+		</li>
+		<li>
+			What are some examples? 	
+		</li>
+		<li>
+			How do these relate to what I already know?	
+		</li>
+		<li>
+			What went well? 	
+		</li>
+		<li>
+			What could have gone better? 	
+		</li>
+		<li>
+			What might I need to learn for better mastery, or what strategies might I use the next time to get better results?
+		</li>
+	</ul>
+
+	  <p class='lead'>
+	  	You will learn how to use hints properly and when to read the discussion threads. I want to help you and Live Coding Session can kickstart your coding interview preparation. It's you and me for 15 minutes. We will work through a coding interview problem.
+	  </p>
+

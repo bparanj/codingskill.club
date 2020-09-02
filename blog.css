@@ -63,6 +63,10 @@ mark {
   background-color: yellow;
 }
 
+ul {
+		list-style: none;
+	}
+	
 .flex-auto {
   -ms-flex: 0 0 auto;
   -webkit-box-flex: 0;

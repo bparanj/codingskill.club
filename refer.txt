@@ -1,3 +1,5 @@
+
+
 <ul>
 
 	<li> Are you looking for a methodology for effectively solving coding problems? </li>
@@ -177,5 +179,44 @@ I like to look at what other people have done and conceptualize how I might do i
 	</p>
 	
   	<p><img src="https://www.codingskill.net/assets/images/skills.jpg" alt="Skills Progression" /></p>
+
+
+
+Bullets
+
+- List the benefits
+- Reasons to keep reading and to make a decision
+- Summarize what they are buying
+- Build curiosity
+- Explain the product what it will do for them
+
+It ________________ so you can _______________ which means ____WHY IS THAT IMPORTANT?____________.
+It ________________ so you can _______________ which means {you will ____________________}.
+It ________________ so you can _______________ which means {you can ____________________}.
+It ________________ so you can _______________ which means {you don't have to ____________________}.
+
+When to look at the solution and what to look for in other solutions
+How looking at the solution can be detrimental to your learning in the long run
+
+
+
+Love for _____________
+Hate 
+Fear of _____________ (failure, making mistakes, loss etc)
+Vanity
+Pride
+Longing for _____________ (fulfillment, achievement etc)
+Greed 
+Freedom
+
+FEATURE + BENEFIT + MEANING
+WHAT IT IS + WHAT IT DOES + WHAT IT MEANS TO THE BUYER
+
+The sure-fire secret to NOT needing to memorize the solution to a given problem while enjoying tackling challenging problems.
+How to quickly avoid the #1 Mistake developers make that causes them to perform poorly...so you can perform with flying colors in the coding interview.
+A step-by-step explanation of how to actually approach any coding problem and formulate a strategy for solving it.
+The absolute "bullet-proof" sequence to follow and stay on track to finish coding the solution within given time frame.
+
+
 
 

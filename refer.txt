@@ -137,7 +137,7 @@
 	  </div>
 
 
-
+   This is NOT a study group.
 
 
 	  <div class="card">
@@ -222,5 +222,13 @@ The absolute "bullet-proof" sequence to follow and stay on track to finish codin
 Other training videos give you few minutes to think about the problem. We expand that few minutes of that time to one to two hour and we think out aloud and build on top of each other's ideas. This way you will never forget the solution to the problem. There is no need to memorize because you will reason about every decision you have to make to arrive at the solution.
 
 The knowledge you acquire this way sticks.
+
+Hypothesis
+
+Developers don't have time to go through long boring videos to learn how to solve coding problems.
+
+Developers have money to spend on $50 per month subscription service even when they are between jobs.
+
+
 
 

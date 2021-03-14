@@ -33,9 +33,11 @@
 			</h1>
 			
 			  <p class="lead">
-    				The skills you learn in this Problem Solving Skills Mastery program is proven in tackling difficult problems. This program is based on research that shows an excellent way for people to improve their problem-solving skills and get results. This is a FREE Webclass. There Are No Costs.
+    				The skills you learn in this Problem Solving Skills Mastery program is proven in tackling difficult problems. This program is based on research that shows an excellent way for people to improve their problem-solving skills and get results. Subscribe now for just $47 per month.
 			  </p>
-          <p class="lead mb-0"><a href="https://go.oncehub.com/BalaParanj" class="btn bg-dark text-white btn-lg">Signup For Live Coding</a></p>
+          <p class="lead mb-0">
+            <button class="btn bg-dark text-white btn-lg" id="livecoding">Subscribe</button>
+          </p>
         </div>
     </div>
 
@@ -345,15 +347,6 @@
 	  		<li>Stare at the computer without any clue on how to solve the coding problem.</li>
 	  	</ul>
 								  
-  	<h2 class="blog-post-title">P.S.</h3>
-
-  	<p class='lead'>
-		This is limited to the first 100 people only. The reason is that as an early adopter, you will provide feedback on the early access to the material. The product will be revised and sold as a paid product.
-  	</p>	  
-	  
-	<p class='lead'>								
-		Act now! Signup now for your free session. Click <a href="https://go.oncehub.com/BalaParanj"> here </a>to sign up for your FREE live coding session now. 
-	</p>
           </div><!-- /.blog-post -->
 					
     <!-- Bootstrap core JavaScript
@@ -364,5 +357,23 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 		
+
+    <script src="https://checkout.stripe.com/checkout.js"></script>
+    <script>
+      var handler = StripeCheckout.configure({
+        key: "pk_live_TObNVbkxmBTutHFrCtGqpn4p",
+        image: "https://stripe.com/img/documentation/checkout/marketplace.png",
+        name: "Live Coding Pro",
+        description: "Live Coding Pro Subscription ($47 per month)",
+        panelLabel: "Subscribe",
+        allowRememberMe: false
+      });
+
+      document.getElementById('stripe-demo').addEventListener('click', function(e) {
+        handler.open();
+        e.preventDefault();
+      });
+      </script>
+    
   </body>
 </html>

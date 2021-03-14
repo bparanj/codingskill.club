@@ -1,5 +1,8 @@
 
 
+
+
+
 <ul>
 
 	<li> Are you looking for a methodology for effectively solving coding problems? </li>
